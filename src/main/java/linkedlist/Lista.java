@@ -1,4 +1,4 @@
-package aula2;
+package linkedlist;
 
 public class Lista<T> {
 

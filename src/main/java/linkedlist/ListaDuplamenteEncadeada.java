@@ -1,4 +1,4 @@
-package aula2;
+package linkedlist;
 
 import lombok.Getter;
 import lombok.Setter;
